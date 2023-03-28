@@ -1,0 +1,10 @@
+C:\Users\lobin\source\repos\Triângulo\Triângulo\bin\Debug\Triângulo.exe.config
+C:\Users\lobin\source\repos\Triângulo\Triângulo\bin\Debug\Triângulo.exe
+C:\Users\lobin\source\repos\Triângulo\Triângulo\bin\Debug\Triângulo.pdb
+C:\Users\lobin\source\repos\Triângulo\Triângulo\obj\Debug\Triângulo.csproj.AssemblyReference.cache
+C:\Users\lobin\source\repos\Triângulo\Triângulo\obj\Debug\Triângulo.Form1.resources
+C:\Users\lobin\source\repos\Triângulo\Triângulo\obj\Debug\Triângulo.Properties.Resources.resources
+C:\Users\lobin\source\repos\Triângulo\Triângulo\obj\Debug\Triângulo.csproj.GenerateResource.cache
+C:\Users\lobin\source\repos\Triângulo\Triângulo\obj\Debug\Triângulo.csproj.CoreCompileInputs.cache
+C:\Users\lobin\source\repos\Triângulo\Triângulo\obj\Debug\Triângulo.exe
+C:\Users\lobin\source\repos\Triângulo\Triângulo\obj\Debug\Triângulo.pdb
