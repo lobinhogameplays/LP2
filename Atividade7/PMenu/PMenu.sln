@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.916
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PMenu", "PMenu\PMenu.csproj", "{351DBFC7-09C3-4EA8-906B-570C37C7171E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{351DBFC7-09C3-4EA8-906B-570C37C7171E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{351DBFC7-09C3-4EA8-906B-570C37C7171E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{351DBFC7-09C3-4EA8-906B-570C37C7171E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{351DBFC7-09C3-4EA8-906B-570C37C7171E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DB1DA21-2574-4C60-9500-3CB25E170D65}
+	EndGlobalSection
+EndGlobal
