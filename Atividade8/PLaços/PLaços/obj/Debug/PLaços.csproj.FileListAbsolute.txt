@@ -1,0 +1,14 @@
+C:\Users\0030482221028\source\repos\PLaços\PLaços\obj\Debug\PLaços.csprojAssemblyReference.cache
+C:\Users\0030482221028\source\repos\PLaços\PLaços\obj\Debug\PLaços.Form1.resources
+C:\Users\0030482221028\source\repos\PLaços\PLaços\obj\Debug\PLaços.frmEx1.resources
+C:\Users\0030482221028\source\repos\PLaços\PLaços\obj\Debug\PLaços.Properties.Resources.resources
+C:\Users\0030482221028\source\repos\PLaços\PLaços\obj\Debug\PLaços.csproj.GenerateResource.cache
+C:\Users\0030482221028\source\repos\PLaços\PLaços\obj\Debug\PLaços.csproj.CoreCompileInputs.cache
+C:\Users\0030482221028\source\repos\PLaços\PLaços\bin\Debug\PLaços.exe.config
+C:\Users\0030482221028\source\repos\PLaços\PLaços\bin\Debug\PLaços.exe
+C:\Users\0030482221028\source\repos\PLaços\PLaços\bin\Debug\PLaços.pdb
+C:\Users\0030482221028\source\repos\PLaços\PLaços\obj\Debug\PLaços.exe
+C:\Users\0030482221028\source\repos\PLaços\PLaços\obj\Debug\PLaços.pdb
+C:\Users\0030482221028\source\repos\PLaços\PLaços\obj\Debug\PLaços.frmEx2.resources
+C:\Users\0030482221028\source\repos\PLaços\PLaços\obj\Debug\PLaços.frmEx3.resources
+C:\Users\0030482221028\source\repos\PLaços\PLaços\obj\Debug\PLaços.frmEx4.resources
